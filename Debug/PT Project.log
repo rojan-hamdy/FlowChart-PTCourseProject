@@ -1,0 +1,200 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Variable.cpp
+  Write_Stat.cpp
+C:\Users\Hoffice\source\repos\FlowChart-PTCourseProject2\CMUgraphicsLib\CMUgraphics.h(16,10): error C1083: Cannot open include file: 'mousequeue.h': No such file or directory
+  (compiling source file 'Statements/Write_Stat.cpp')
+  
+  VariableAssign.cpp
+C:\Users\Hoffice\source\repos\FlowChart-PTCourseProject2\CMUgraphicsLib\CMUgraphics.h(16,10): error C1083: Cannot open include file: 'mousequeue.h': No such file or directory
+  (compiling source file 'Statements/VariableAssign.cpp')
+  
+  main.cpp
+C:\Users\Hoffice\source\repos\FlowChart-PTCourseProject2\CMUgraphicsLib\CMUgraphics.h(16,10): error C1083: Cannot open include file: 'mousequeue.h': No such file or directory
+  (compiling source file 'main.cpp')
+  
+  Statement.cpp
+C:\Users\Hoffice\source\repos\FlowChart-PTCourseProject2\CMUgraphicsLib\CMUgraphics.h(16,10): error C1083: Cannot open include file: 'mousequeue.h': No such file or directory
+  (compiling source file 'Statements/Statement.cpp')
+  
+  ValueAssign.cpp
+C:\Users\Hoffice\source\repos\FlowChart-PTCourseProject2\CMUgraphicsLib\CMUgraphics.h(16,10): error C1083: Cannot open include file: 'mousequeue.h': No such file or directory
+  (compiling source file 'Statements/ValueAssign.cpp')
+  
+  Start_Stat.cpp
+C:\Users\Hoffice\source\repos\FlowChart-PTCourseProject2\CMUgraphicsLib\CMUgraphics.h(16,10): error C1083: Cannot open include file: 'mousequeue.h': No such file or directory
+  (compiling source file 'Statements/Start_Stat.cpp')
+  
+  Read_Stat.cpp
+C:\Users\Hoffice\source\repos\FlowChart-PTCourseProject2\CMUgraphicsLib\CMUgraphics.h(16,10): error C1083: Cannot open include file: 'mousequeue.h': No such file or directory
+  (compiling source file 'Statements/Read_Stat.cpp')
+  
+  OperartorAssign.cpp
+C:\Users\Hoffice\source\repos\FlowChart-PTCourseProject2\CMUgraphicsLib\CMUgraphics.h(16,10): error C1083: Cannot open include file: 'mousequeue.h': No such file or directory
+  (compiling source file 'Statements/OperartorAssign.cpp')
+  
+  End_Stat.cpp
+C:\Users\Hoffice\source\repos\FlowChart-PTCourseProject2\CMUgraphicsLib\CMUgraphics.h(16,10): error C1083: Cannot open include file: 'mousequeue.h': No such file or directory
+  (compiling source file 'Statements/End_Stat.cpp')
+  
+  Declare_Stat.cpp
+C:\Users\Hoffice\source\repos\FlowChart-PTCourseProject2\CMUgraphicsLib\CMUgraphics.h(16,10): error C1083: Cannot open include file: 'mousequeue.h': No such file or directory
+  (compiling source file 'Statements/Declare_Stat.cpp')
+  
+  Condition_Stat.cpp
+C:\Users\Hoffice\source\repos\FlowChart-PTCourseProject2\CMUgraphicsLib\CMUgraphics.h(16,10): error C1083: Cannot open include file: 'mousequeue.h': No such file or directory
+  (compiling source file 'Statements/Condition_Stat.cpp')
+  
+  HelperFn.cpp
+C:\Users\Hoffice\source\repos\FlowChart-PTCourseProject2\HelperFn.cpp(11,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hoffice\source\repos\FlowChart-PTCourseProject2\HelperFn.cpp(29,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hoffice\source\repos\FlowChart-PTCourseProject2\HelperFn.cpp(59,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hoffice\source\repos\FlowChart-PTCourseProject2\HelperFn.cpp(94,36): warning C4018: '<': signed/unsigned mismatch
+  Output.cpp
+C:\Users\Hoffice\source\repos\FlowChart-PTCourseProject2\CMUgraphicsLib\CMUgraphics.h(16,10): error C1083: Cannot open include file: 'mousequeue.h': No such file or directory
+  (compiling source file 'GUI/Output.cpp')
+  
+  Input.cpp
+C:\Users\Hoffice\source\repos\FlowChart-PTCourseProject2\CMUgraphicsLib\CMUgraphics.h(16,10): error C1083: Cannot open include file: 'mousequeue.h': No such file or directory
+  (compiling source file 'GUI/Input.cpp')
+  
+  Connector.cpp
+C:\Users\Hoffice\source\repos\FlowChart-PTCourseProject2\CMUgraphicsLib\CMUgraphics.h(16,10): error C1083: Cannot open include file: 'mousequeue.h': No such file or directory
+  (compiling source file 'Connector.cpp')
+  
+  ApplicationManager.cpp
+C:\Users\Hoffice\source\repos\FlowChart-PTCourseProject2\CMUgraphicsLib\CMUgraphics.h(16,10): error C1083: Cannot open include file: 'mousequeue.h': No such file or directory
+  (compiling source file 'ApplicationManager.cpp')
+  
+  AddValueAssign.cpp
+C:\Users\Hoffice\source\repos\FlowChart-PTCourseProject2\CMUgraphicsLib\CMUgraphics.h(16,10): error C1083: Cannot open include file: 'mousequeue.h': No such file or directory
+  (compiling source file 'Actions/AddValueAssign.cpp')
+  
+  windowinput.cpp
+\CMUgraphicsLib\windowinput.cpp(1,1): error C1083: Cannot open source file: 'CMUgraphicsLib\windowinput.cpp': No such file or directory
+  (compiling source file '/CMUgraphicsLib/windowinput.cpp')
+  
+  mousequeue.cpp
+\CMUgraphicsLib\mousequeue.cpp(1,1): error C1083: Cannot open source file: 'CMUgraphicsLib\mousequeue.cpp': No such file or directory
+  (compiling source file '/CMUgraphicsLib/mousequeue.cpp')
+  
+  Generating Code...
+  Compiling...
+  keyqueue.cpp
+\CMUgraphicsLib\keyqueue.cpp(1,1): error C1083: Cannot open source file: 'CMUgraphicsLib\keyqueue.cpp': No such file or directory
+  (compiling source file '/CMUgraphicsLib/keyqueue.cpp')
+  
+  image.cpp
+C:\Users\Hoffice\source\repos\FlowChart-PTCourseProject2\CMUgraphicsLib\image.h(16,10): error C1083: Cannot open include file: 'version.h': No such file or directory
+  (compiling source file 'CMUgraphicsLib/image.cpp')
+  
+  colors.cpp
+C:\Users\Hoffice\source\repos\FlowChart-PTCourseProject2\CMUgraphicsLib\colors.h(9,10): error C1083: Cannot open include file: 'version.h': No such file or directory
+  (compiling source file 'CMUgraphicsLib/colors.cpp')
+  
+  CMUgraphics.cpp
+C:\Users\Hoffice\source\repos\FlowChart-PTCourseProject2\CMUgraphicsLib\CMUgraphics.h(16,10): error C1083: Cannot open include file: 'mousequeue.h': No such file or directory
+  (compiling source file 'CMUgraphicsLib/CMUgraphics.cpp')
+  
+  auxil.cpp
+C:\Users\Hoffice\source\repos\FlowChart-PTCourseProject2\CMUgraphicsLib\auxil.h(9,10): error C1083: Cannot open include file: 'version.h': No such file or directory
+  (compiling source file 'CMUgraphicsLib/auxil.cpp')
+  
+  Write_Action.cpp
+C:\Users\Hoffice\source\repos\FlowChart-PTCourseProject2\CMUgraphicsLib\CMUgraphics.h(16,10): error C1083: Cannot open include file: 'mousequeue.h': No such file or directory
+  (compiling source file 'Actions/Write_Action.cpp')
+  
+  Validate.cpp
+C:\Users\Hoffice\source\repos\FlowChart-PTCourseProject2\CMUgraphicsLib\CMUgraphics.h(16,10): error C1083: Cannot open include file: 'mousequeue.h': No such file or directory
+  (compiling source file 'Actions/Validate.cpp')
+  
+  Switch_To_Sim.cpp
+C:\Users\Hoffice\source\repos\FlowChart-PTCourseProject2\CMUgraphicsLib\CMUgraphics.h(16,10): error C1083: Cannot open include file: 'mousequeue.h': No such file or directory
+  (compiling source file 'Actions/Switch_To_Sim.cpp')
+  
+  Switch_To_Design.cpp
+C:\Users\Hoffice\source\repos\FlowChart-PTCourseProject2\CMUgraphicsLib\CMUgraphics.h(16,10): error C1083: Cannot open include file: 'mousequeue.h': No such file or directory
+  (compiling source file 'Actions/Switch_To_Design.cpp')
+  
+  Start_Action.cpp
+C:\Users\Hoffice\source\repos\FlowChart-PTCourseProject2\CMUgraphicsLib\CMUgraphics.h(16,10): error C1083: Cannot open include file: 'mousequeue.h': No such file or directory
+  (compiling source file 'Actions/Start_Action.cpp')
+  
+  SelectAction.cpp
+C:\Users\Hoffice\source\repos\FlowChart-PTCourseProject2\CMUgraphicsLib\CMUgraphics.h(16,10): error C1083: Cannot open include file: 'mousequeue.h': No such file or directory
+  (compiling source file 'Actions/SelectAction.cpp')
+  
+  Save_Action.cpp
+C:\Users\Hoffice\source\repos\FlowChart-PTCourseProject2\CMUgraphicsLib\CMUgraphics.h(16,10): error C1083: Cannot open include file: 'mousequeue.h': No such file or directory
+  (compiling source file 'Actions/Save_Action.cpp')
+  
+  Run_Action.cpp
+C:\Users\Hoffice\source\repos\FlowChart-PTCourseProject2\CMUgraphicsLib\CMUgraphics.h(16,10): error C1083: Cannot open include file: 'mousequeue.h': No such file or directory
+  (compiling source file 'Actions/Run_Action.cpp')
+  
+  Read_Action.cpp
+C:\Users\Hoffice\source\repos\FlowChart-PTCourseProject2\CMUgraphicsLib\CMUgraphics.h(16,10): error C1083: Cannot open include file: 'mousequeue.h': No such file or directory
+  (compiling source file 'Actions/Read_Action.cpp')
+  
+  Paste_Action.cpp
+C:\Users\Hoffice\source\repos\FlowChart-PTCourseProject2\CMUgraphicsLib\CMUgraphics.h(16,10): error C1083: Cannot open include file: 'mousequeue.h': No such file or directory
+  (compiling source file 'Actions/Paste_Action.cpp')
+  
+  Load_Action.cpp
+C:\Users\Hoffice\source\repos\FlowChart-PTCourseProject2\CMUgraphicsLib\CMUgraphics.h(16,10): error C1083: Cannot open include file: 'mousequeue.h': No such file or directory
+  (compiling source file 'Actions/Load_Action.cpp')
+  
+  GeneratecppAction.cpp
+C:\Users\Hoffice\source\repos\FlowChart-PTCourseProject2\CMUgraphicsLib\CMUgraphics.h(16,10): error C1083: Cannot open include file: 'mousequeue.h': No such file or directory
+  (compiling source file 'Actions/GeneratecppAction.cpp')
+  
+  Exit.cpp
+C:\Users\Hoffice\source\repos\FlowChart-PTCourseProject2\CMUgraphicsLib\CMUgraphics.h(16,10): error C1083: Cannot open include file: 'mousequeue.h': No such file or directory
+  (compiling source file 'Actions/Exit.cpp')
+  
+  End_Action.cpp
+C:\Users\Hoffice\source\repos\FlowChart-PTCourseProject2\CMUgraphicsLib\CMUgraphics.h(16,10): error C1083: Cannot open include file: 'mousequeue.h': No such file or directory
+  (compiling source file 'Actions/End_Action.cpp')
+  
+  Edit_Action.cpp
+C:\Users\Hoffice\source\repos\FlowChart-PTCourseProject2\CMUgraphicsLib\CMUgraphics.h(16,10): error C1083: Cannot open include file: 'mousequeue.h': No such file or directory
+  (compiling source file 'Actions/Edit_Action.cpp')
+  
+  Generating Code...
+  Compiling...
+  Delete_StatorConn.cpp
+C:\Users\Hoffice\source\repos\FlowChart-PTCourseProject2\CMUgraphicsLib\CMUgraphics.h(16,10): error C1083: Cannot open include file: 'mousequeue.h': No such file or directory
+  (compiling source file 'Actions/Delete_StatorConn.cpp')
+  
+  Declare_Action.cpp
+C:\Users\Hoffice\source\repos\FlowChart-PTCourseProject2\CMUgraphicsLib\CMUgraphics.h(16,10): error C1083: Cannot open include file: 'mousequeue.h': No such file or directory
+  (compiling source file 'Actions/Declare_Action.cpp')
+  
+  Debug.cpp
+C:\Users\Hoffice\source\repos\FlowChart-PTCourseProject2\CMUgraphicsLib\CMUgraphics.h(16,10): error C1083: Cannot open include file: 'mousequeue.h': No such file or directory
+  (compiling source file 'Actions/Debug.cpp')
+  
+  Cut_Action.cpp
+C:\Users\Hoffice\source\repos\FlowChart-PTCourseProject2\CMUgraphicsLib\CMUgraphics.h(16,10): error C1083: Cannot open include file: 'mousequeue.h': No such file or directory
+  (compiling source file 'Actions/Cut_Action.cpp')
+  
+  Copy_Action.cpp
+C:\Users\Hoffice\source\repos\FlowChart-PTCourseProject2\CMUgraphicsLib\CMUgraphics.h(16,10): error C1083: Cannot open include file: 'mousequeue.h': No such file or directory
+  (compiling source file 'Actions/Copy_Action.cpp')
+  
+  AddVariableAssign.cpp
+C:\Users\Hoffice\source\repos\FlowChart-PTCourseProject2\CMUgraphicsLib\CMUgraphics.h(16,10): error C1083: Cannot open include file: 'mousequeue.h': No such file or directory
+  (compiling source file 'Actions/AddVariableAssign.cpp')
+  
+  AddOperatorAssign.cpp
+C:\Users\Hoffice\source\repos\FlowChart-PTCourseProject2\CMUgraphicsLib\CMUgraphics.h(16,10): error C1083: Cannot open include file: 'mousequeue.h': No such file or directory
+  (compiling source file 'Actions/AddOperatorAssign.cpp')
+  
+  AddConnector.cpp
+C:\Users\Hoffice\source\repos\FlowChart-PTCourseProject2\CMUgraphicsLib\CMUgraphics.h(16,10): error C1083: Cannot open include file: 'mousequeue.h': No such file or directory
+  (compiling source file 'Actions/AddConnector.cpp')
+  
+  AddCondition.cpp
+C:\Users\Hoffice\source\repos\FlowChart-PTCourseProject2\CMUgraphicsLib\CMUgraphics.h(16,10): error C1083: Cannot open include file: 'mousequeue.h': No such file or directory
+  (compiling source file 'Actions/AddCondition.cpp')
+  
+  Generating Code...
